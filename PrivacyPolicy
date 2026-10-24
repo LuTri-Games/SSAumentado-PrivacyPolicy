@@ -1,0 +1,46 @@
+Privacy Policy
+
+Effective Date: October 24, 2026
+
+Introduction
+Thank you for using SSAumentado from LuTri Games. This Privacy Policy explains how we handle information and device permissions when you use our educational application. Please read this privacy policy carefully. By using the App, you agree to the practices described in this policy.
+
+Information Collection and Camera Usage
+
+Personal Information:
+We do not collect, request, or store any personal information that identifies you as an individual. No account registration or login is required to use this application.
+
+Camera Permission and Augmented Reality (AR):
+To utilize the Augmented Reality features, SSAumentado requires access to your device's camera. The camera feed is processed exclusively locally on your device for image recognition and marker tracking purposes, allowing the projection of 3D planetary models into the physical environment. We do not record, capture, store, or transmit any images, videos, or personal data from your camera.
+
+Non-Personal Information:
+We may process non-personal data related to your simulation settings (such as manipulated planetary mass, velocity, or orbital distances). This data is processed in real-time to render the physical simulations.
+
+Local Storage
+All data related to your active simulation state and environmental configurations is stored temporarily and locally on your Android device. We do not utilize external servers to store, backup, or harvest any simulation or usage data.
+
+Third-Party Services
+The App is built using the Unity Engine and utilizes the Vuforia Engine for its Augmented Reality capabilities.
+
+    Vuforia Engine: Vuforia processes the camera feed locally for tracking but may collect basic, non-identifiable device data (such as OS version and hardware specifications) necessary to optimize the AR service. For more information, please visit the PTC Privacy Policy.
+
+Advertisements and Purchases
+SSAumentado is a completely free educational tool. The App contains absolutely no advertisements, and it does not offer any in-app purchases (IAP) or microtransactions. All features, educational panels, and simulation tools are fully unlocked and available to all users by default.
+
+Assets and Copyright
+All visual assets, 3D models, textures, and sprites used in the App are either original creations by LuTri Games, public domain resources (including official NASA topographical data), or copyright-free materials cleared for free and commercial use.
+
+Children’s Privacy
+Our application is an educational tool designed to be safe for users of all ages, including children. Because we do not collect any personal information, display advertisements, or offer in-app purchases, there is no risk of inadvertent data collection or unauthorized transactions by minors.
+
+Data Security
+We prioritize the integrity of your device. Since we do not collect or transmit personal data to external servers, your information is naturally protected by the inherent security mechanisms provided by the Android operating system.
+
+App Usage and Resource Consumption
+Due to the continuous rendering of 3D graphics, complex N-Body physics calculations, and active Computer Vision tracking for Augmented Reality, SSAumentado may consume significant battery power and device memory while in use. Because the App operates entirely offline and contains no advertisements, it does not actively consume your mobile data.
+
+Changes to This Privacy Policy
+We may update our Privacy Policy from time to time. Any changes will be posted on this page with an updated effective date. You are advised to review this Privacy Policy periodically for any changes.
+
+Contact Us
+If you have any questions or suggestions about our Privacy Policy or the application, do not hesitate to contact us at lutri.faq.games@outlook.com.
